@@ -31,6 +31,7 @@ Lock your keyboard and mouse with a single click, and unlock instantly with a cu
 - **Keyboard Group Lock** - Disables keyboard and keypad input
 - **Pointing Device Group Lock** - Disables mouse and trackball movement, clicks, and scrolling; pins cursor position
 - **Selective Locking** - Choose which device group to lock
+- **Simultaneous Lock** - Lock keyboard and pointing device at the same time — perfect for cleaning them all at once
 
 ### Unlocking
 
@@ -65,6 +66,10 @@ Supports 7 languages:
 | 한국어 | ko |
 | 简体中文 | zh-Hans |
 | 繁體中文 | zh-Hant |
+
+### Schedule Notification
+
+- **Cleaning Reminder** - Get notified via notification banner when a specified number of days have passed — a reminder to clean your keyboard and mouse
 
 ### Other
 
